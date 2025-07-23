@@ -1,4 +1,4 @@
 # Resume-Screener-Gpt
 resume screener like gpt using huggingface
 
-LINK: http://localhost:8501/
+LINK: https://resume-screener-gpt-e23asuzxvlvvnrrlg3dvwt.streamlit.app/
